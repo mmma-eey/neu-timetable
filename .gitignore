@@ -20,6 +20,6 @@ work/
 *.docx
 *.log
 *.apk
-!releases/课间-0.1.7-测试版.apk
+!releases/kejian-0.1.7.apk
 .DS_Store
 Thumbs.db

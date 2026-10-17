@@ -6,7 +6,7 @@
 
 ## 下载与安装
 
-[下载最新 APK](https://github.com/mmma-eey/neu-timetable/releases/download/v0.1.7/%E8%AF%BE%E9%97%B4-0.1.7-%E6%B5%8B%E8%AF%95%E7%89%88.apk) · [仓库内的 0.1.7 APK](releases/课间-0.1.7-测试版.apk)
+[下载最新 APK](https://github.com/mmma-eey/neu-timetable/releases/download/v0.1.7/kejian-0.1.7.apk) · [仓库内的 0.1.7 APK](releases/kejian-0.1.7.apk)
 
 下载 APK 后在手机打开并安装。已装本项目旧测试版可覆盖安装，保留本机课表；更换签名时无法直接覆盖。首次安装如需授权，请仅对实际使用的下载来源开放安装权限。
 
